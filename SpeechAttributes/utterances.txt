@@ -1,0 +1,16 @@
+RoutePlanner how far away is {Destination}
+RoutePlanner how far away is {Destination} from {Start}
+RoutePlanner how long will it take to get to {Destination}
+RoutePlanner how long will it take me to get to {Destination}
+RoutePlanner how long will it take to get to {Destination} from {Start}
+RoutePlanner how long will it take me to get to {Destination} from {Start}
+RoutePlanner {Destination}
+RoutePlanner to {Destination}
+RoutePlanner {Destination} from {Start}
+RoutePlanner to {Destination} from {Start}
+RoutePlanner how far away is {Destination}
+RoutePlanner how far is {Destination}
+RoutePlanner how far away is {Destination} from {Start}
+RoutePlanner how far is {Destination} from {Start}
+RoutePlanner what is the distance to {Destination}
+RoutePlanner what is the distance to {Destination} from {Start}

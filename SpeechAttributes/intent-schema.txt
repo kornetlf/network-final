@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "intent": "RoutePlanner",
+      "slots": [
+        {
+          "name": "Start",
+          "type": "POI"
+        },
+        {
+          "name": "Destination",
+          "type": "POI"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
